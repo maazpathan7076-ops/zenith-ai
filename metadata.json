@@ -1,0 +1,6 @@
+{
+  "name": "Zenith AI",
+  "description": "A modern, production-quality AI assistant with streaming responses, conversation history, and intelligent modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
